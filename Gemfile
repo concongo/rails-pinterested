@@ -76,3 +76,8 @@ gem "aws-sdk-s3", require: false
 
 # image manipulation
 gem 'mini_magick'
+
+#effects
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-turbolinks', '~> 2.1'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
